@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo Minas">
+    <display-name lang="pt">Globo Minas</display-name>
+    <icon src="http://www.lineup.tv.br/canais/saigon.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
